@@ -1,7 +1,7 @@
-# FlashCard-App
+# FlashCard-O-Matic
 
 ## Function 
-
+ An application that allows users to create decks of flashcards. Additionally, the user can add, delete and edit cards to these decks. The user can also navigate to the study screen where they can "flip" the cards to see what is on the other side of the card.
 ## Installation
 
 1. Run npm i
