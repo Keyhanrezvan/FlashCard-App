@@ -15,3 +15,7 @@
 5. Edit Deck:	Allows the user to modify information on an existing deck
 6. Add Card: Allows the user to add a new card to an existing deck
 7. Edit Card: 	Allows the user to modify information on an existing card
+
+## Built with
+
+Technology: React, bootstrap 4
